@@ -1,0 +1,306 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers: Endgame",
+      "description": "Sau sự kiện hủy diệt của Thanos, các Avengers còn sống phải tìm cách đảo ngược tình thế.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "duration": 181,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "releaseDate": "2023-04-26",
+      "rating": 8.4
+    },
+    {
+      "id": 2,
+      "title": "Spider-Man: No Way Home",
+      "description": "Peter Parker phải đối mặt với nhiều kẻ thù từ các vũ trụ khác nhau sau khi danh tính của anh bị tiết lộ.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+      "duration": 148,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "releaseDate": "2023-12-17",
+      "rating": 8.3
+    },
+    {
+      "id": 3,
+      "title": "The Batman",
+      "description": "Batman phải đối mặt với The Riddler, một kẻ giết người hàng loạt đang nhắm vào giới tinh hoa của Gotham.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+      "duration": 176,
+      "genre": ["Hành động", "Tội phạm", "Bí ẩn"],
+      "releaseDate": "2023-03-04",
+      "rating": 7.9
+    },
+    {
+      "id": 4,
+      "title": "Top Gun: Maverick",
+      "description": "Sau hơn ba thập kỷ, Maverick vẫn là một trong những phi công xuất sắc nhất của Hải quân và đang huấn luyện cho nhiệm vụ đặc biệt.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "duration": 130,
+      "genre": ["Hành động", "Kịch tính"],
+      "releaseDate": "2023-05-27",
+      "rating": 8.3
+    },
+    {
+      "id": 5,
+      "title": "Everything Everywhere All at Once",
+      "description": "Một người phụ nữ nhập cư Trung Quốc bị cuốn vào một cuộc phiêu lưu điên rồ, nơi cô phải kết nối với các vũ trụ song song để ngăn chặn một thảm họa.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+      "duration": 139,
+      "genre": ["Hành động", "Phiêu lưu", "Hài hước"],
+      "releaseDate": "2023-04-08",
+      "rating": 7.9
+    },
+    {
+      "id": 6,
+      "title": "Black Panther: Wakanda Forever",
+      "description": "Người dân Wakanda đấu tranh để bảo vệ quốc gia của họ khỏi các thế lực can thiệp sau cái chết của Vua T'Challa.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "duration": 161,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "releaseDate": "2023-11-11",
+      "rating": 6.7
+    },
+    {
+      "id": 7,
+      "title": "Avatar: The Way of Water",
+      "description": "Jake Sully sống với gia đình mới của mình trên hành tinh Pandora, nhưng khi một mối đe dọa cũ quay trở lại, anh phải hợp tác với Neytiri và quân đội Na'vi để bảo vệ ngôi nhà của họ.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
+      "duration": 192,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "releaseDate": "2023-12-16",
+      "rating": 7.6
+    },
+    {
+      "id": 8,
+      "title": "The Menu",
+      "description": "Một cặp đôi trẻ đến một hòn đảo xa xôi để dùng bữa tại một nhà hàng cao cấp, nhưng đầu bếp đã chuẩn bị một thực đơn gây sốc.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+      "duration": 107,
+      "genre": ["Kinh dị", "Hài đen", "Ly kỳ"],
+      "releaseDate": "2023-11-18",
+      "rating": 7.2
+    },
+    {
+      "id": 9,
+      "title": "Triangle of Sadness",
+      "description": "Một cặp người mẫu và những người giàu có bị mắc kẹt trên một hòn đảo hoang sau khi du thuyền sang trọng của họ bị đắm.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+      "duration": 147,
+      "genre": ["Hài đen", "Kịch tính"],
+      "releaseDate": "2023-10-07",
+      "rating": 7.4
+    },
+    {
+      "id": 10,
+      "title": "Nope",
+      "description": "Cư dân của một thị trấn xa xôi ở California chứng kiến một khám phá kỳ lạ và đáng sợ.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGIyNTI3NWItNTJkOS00MGYyLWE4NjgtZDhjMWQ4Y2JkZTU5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+      "duration": 130,
+      "genre": ["Kinh dị", "Bí ẩn", "Khoa học viễn tưởng"],
+      "releaseDate": "2023-07-22",
+      "rating": 6.8
+    },
+    {
+      "id": 11,
+      "title": "Oppenheimer",
+      "description": "Câu chuyện về J. Robert Oppenheimer và vai trò của ông trong việc phát triển bom nguyên tử.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+      "duration": 180,
+      "genre": ["Tiểu sử", "Kịch tính", "Lịch sử"],
+      "releaseDate": "2025-07-21",
+      "rating": 8.7
+    },
+    {
+      "id": 12,
+      "title": "Deadpool 3",
+      "description": "Wade Wilson tái xuất với tư cách là Deadpool và phải đối mặt với những thách thức mới khi anh gia nhập Vũ trụ Marvel.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "duration": 120,
+      "genre": ["Hành động", "Phiêu lưu", "Hài hước"],
+      "releaseDate": "2025-05-03",
+      "rating": 8.0
+    },
+    {
+      "id": 13,
+      "title": "Mission: Impossible 8",
+      "description": "Ethan Hunt trở lại trong nhiệm vụ bất khả thi tiếp theo, đối mặt với những kẻ thù mới và những thách thức nguy hiểm.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTk3NmUtN2Y4NGYwMmJjMmYyXkEyXkFqcGdeQXVyNTk5Nzg0MDE@._V1_.jpg",
+      "duration": 150,
+      "genre": ["Hành động", "Phiêu lưu", "Gián điệp"],
+      "releaseDate": "2025-06-27",
+      "rating": 7.9
+    },
+    {
+      "id": 14,
+      "title": "Fantastic Four",
+      "description": "Phiên bản mới của Fantastic Four trong Vũ trụ Điện ảnh Marvel, theo dõi nhóm siêu anh hùng khi họ có được sức mạnh đặc biệt.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_.jpg",
+      "duration": 140,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "releaseDate": "2025-07-24",
+      "rating": 7.5
+    },
+    {
+      "id": 15,
+      "title": "Avatar 3",
+      "description": "Phần tiếp theo của câu chuyện về Na'vi và hành tinh Pandora, mở rộng thế giới và giới thiệu các bộ tộc mới.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
+      "duration": 190,
+      "genre": ["Hành động", "Phiêu lưu", "Khoa học viễn tưởng"],
+      "releaseDate": "2025-12-19",
+      "rating": 7.8
+    }
+  ],
+  "cinemas": [
+    {
+      "id": 1,
+      "name": "CGV Vincom Center",
+      "address": "72 Lê Thánh Tôn, Quận 1, TP. Hồ Chí Minh",
+      "city": "Hồ Chí Minh",
+      "phone": "1900 6017"
+    },
+    {
+      "id": 2,
+      "name": "Lotte Cinema Landmark 81",
+      "address": "Landmark 81, Vinhomes Central Park, Quận Bình Thạnh, TP. Hồ Chí Minh",
+      "city": "Hồ Chí Minh",
+      "phone": "1900 6017"
+    },
+    {
+      "id": 3,
+      "name": "Galaxy Cinema Nguyễn Du",
+      "address": "116 Nguyễn Du, Quận 1, TP. Hồ Chí Minh",
+      "city": "Hồ Chí Minh",
+      "phone": "1900 6017"
+    }
+  ],
+  "showTimes": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "cinemaId": 1,
+      "hall": "Phòng chiếu 1",
+      "date": "2025-04-17",
+      "startTime": "10:00",
+      "endTime": "13:01",
+      "price": 90000
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "cinemaId": 1,
+      "hall": "Phòng chiếu 1",
+      "date": "2025-04-17",
+      "startTime": "14:00",
+      "endTime": "17:01",
+      "price": 120000
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "cinemaId": 2,
+      "hall": "Phòng chiếu 2",
+      "date": "2025-04-17",
+      "startTime": "11:30",
+      "endTime": "14:31",
+      "price": 110000
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "cinemaId": 1,
+      "hall": "Phòng chiếu 2",
+      "date": "2025-04-17",
+      "startTime": "09:30",
+      "endTime": "11:58",
+      "price": 80000
+    },
+    {
+      "id": 5,
+      "movieId": 2,
+      "cinemaId": 3,
+      "hall": "Phòng chiếu 3",
+      "date": "2025-04-17",
+      "startTime": "13:45",
+      "endTime": "16:13",
+      "price": 100000
+    },
+    {
+      "id": 6,
+      "movieId": 3,
+      "cinemaId": 2,
+      "hall": "Phòng chiếu 1",
+      "date": "2025-04-17",
+      "startTime": "16:00",
+      "endTime": "18:56",
+      "price": 100000
+    }
+  ],
+  "seats": [
+    {
+      "id": 1,
+      "showTimeId": 1,
+      "row": "A",
+      "number": 1,
+      "type": "standard",
+      "price": 90000,
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "showTimeId": 1,
+      "row": "A",
+      "number": 2,
+      "type": "standard",
+      "price": 90000,
+      "isAvailable": false
+    },
+    {
+      "id": 3,
+      "showTimeId": 1,
+      "row": "A",
+      "number": 3,
+      "type": "standard",
+      "price": 90000,
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "showTimeId": 1,
+      "row": "B",
+      "number": 1,
+      "type": "vip",
+      "price": 120000,
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "showTimeId": 1,
+      "row": "B",
+      "number": 2,
+      "type": "vip",
+      "price": 120000,
+      "isAvailable": true
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "showTimeId": 1,
+      "seatIds": [2],
+      "totalPrice": 90000,
+      "bookingDate": "2025-04-15T08:30:00",
+      "status": "confirmed"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "phone": "0901234567",
+      "password": "hashed_password_here"
+    }
+  ]
+}
